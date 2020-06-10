@@ -1,6 +1,7 @@
-## Form Validator (Intro Project)
+## Form Validator
 
 Simple client side form validation. Check requird, length, email and password match
+[Demo](https://alvar91.github.io/form-validator-html-css-js/)
 
 ## Project Specifications
 
